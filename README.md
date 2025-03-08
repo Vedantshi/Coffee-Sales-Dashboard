@@ -4,6 +4,10 @@
 
 This project involves analyzing coffee sales data using Microsoft Excel to uncover insights, trends, and actionable recommendations. The dataset includes key information on sales performance, product categories, and customer preferences. The project culminates in an interactive dashboard that visualizes critical insights.
 
+## Project Preview
+
+![Coffee Sales Dashboard](images/CoffeeFinalDashboard.png)
+
 ## Key Features
 
 - **Data Cleaning & Preparation:** Managed missing values, standardized data formats, and ensured data consistency.
