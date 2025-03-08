@@ -58,7 +58,7 @@ This project involves analyzing coffee sales data using Microsoft Excel to uncov
 
 - Automate data updates for real-time insights.
 
-# Contact
+## Contact
 
-For questions or collaboration, feel free to reach out via .
+For questions or collaboration, feel free to reach out via [LinkedIn](www.linkedin.com/in/vedantshinde25).
 
