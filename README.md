@@ -60,5 +60,5 @@ This project involves analyzing coffee sales data using Microsoft Excel to uncov
 
 ## Contact
 
-For questions or collaboration, feel free to reach out via [LinkedIn](www.linkedin.com/in/vedantshinde25).
+For questions or collaboration, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/vedantshinde25).
 
