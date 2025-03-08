@@ -6,7 +6,7 @@ This project involves analyzing coffee sales data using Microsoft Excel to uncov
 
 ## Project Preview
 
-![Coffee Sales Dashboard](images/Coffee_Dashboard_Img.png)
+![Coffee Sales Dashboard](Coffee_Dashboard_Img.png)
 
 ## Key Features
 
